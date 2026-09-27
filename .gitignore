@@ -1,0 +1,5 @@
+/.rocks/
+/var/
+/test/stand/run/
+.tmp_mutant.*
+*.um.backup*
